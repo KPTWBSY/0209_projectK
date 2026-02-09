@@ -1,0 +1,2 @@
+ProductID,ProductName,Duration,ExpectedReturn,ActualRange,Risk,MinInvest,MaxInvest,UnlockCondition,Notes
+INV_001,,,,,,,,,
